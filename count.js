@@ -1,5 +1,5 @@
-const count = () => {
-console.log(27);
+const count = (age) => {
+console.log(age);
 };
 
-count();
+count(27);

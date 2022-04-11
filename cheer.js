@@ -1,3 +1,3 @@
-function cheer() {
-    console.log('group_2');
+function cheer(p1) {
+    console.log(p1);
 }
