@@ -1,3 +1,3 @@
 function cheer() {
-    console.log('group_2');
+    console.log('javascript');
 }
