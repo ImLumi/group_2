@@ -1,3 +1,3 @@
-function future() {
-  console.log('Virgo')
+function future(param) {
+  console.log(param)
 }
