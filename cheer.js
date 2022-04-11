@@ -1,3 +1,3 @@
-function cheer(p1) {
-    console.log('javascript');
+function cheer() {
+    console.log('python');
 }
