@@ -1,3 +1,3 @@
-function future(param = 'pig') {
-  console.log(`Your future looks like ${param}`)
+function future(paramOne, paramTwo) {
+  console.log(paramOne, paramTwo)
 }
