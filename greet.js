@@ -1,3 +1,7 @@
-(function greet(a = 'Ciao', b = 'Bella') {
-  console.log(a, b)
+(function greet() {
+  console.log('greetings!')
 })()
+(function greet(parameter) {
+  console.log(`greetings! ${parameter}`)
+})()
+
