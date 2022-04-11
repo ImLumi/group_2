@@ -2,4 +2,4 @@ const count = (age) => {
 console.log(age);
 };
 
-count(27);
+count(27)
