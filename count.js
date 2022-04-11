@@ -1,5 +1,5 @@
-const count = (age) => {
-console.log(age);
+const count = (myAge, yourAge) => {
+console.log(myAge, yourAge);
 };
 
-count(27)
+count(27, 21);
