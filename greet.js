@@ -1,4 +1,6 @@
-(function greet(name = 'Greetings!') {
-  console.log(name)
-
+(function greet() {
+  console.log('greetings!')
+})()
+(function greet() {
+  console.log('greetings!')
 })()
