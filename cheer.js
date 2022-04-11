@@ -1,3 +1,3 @@
-function cheer(p1, p2) {
-    console.log(p1, p2);
+function cheer(param) {
+    console.log(`Cheer for the ${param}`);
 }
