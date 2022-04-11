@@ -1,3 +1,3 @@
 function future(param = 'pig') {
-  console.log(param)
+  console.log(`Your future looks like ${param}`)
 }
