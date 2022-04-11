@@ -1,3 +1,4 @@
-function cheer(p1) {
-    console.log(p1);
+function cheer() {
+    console.log('javascript');
 }
+
