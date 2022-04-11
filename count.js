@@ -1,5 +1,5 @@
-const count = (myAge, yourAge) => {
-console.log(myAge, yourAge);
+const count = (age) => {
+    console.log('Counting the countless parameter');
 };
 
 count(27, 21);
